@@ -1,0 +1,6 @@
+﻿l_english:
+	MIGRATION_WAR_CB_HOUSE_NAME:0 "[attacker.GetHouse.GetBaseNameNoTooltip]"
+
+	MIGRATION_WAR_CB_NAME:0 "[DEFENDER.GetPrimaryTitle.GetNameNoTier]移住"
+	MIGRATION_WAR_CB_INVASION_WAR_NAME_BASE: ""
+	MIGRATION_WAR_CB_INVASION_WAR_NAME:0 "[ATTACKER.GetCulture.GetName]族による[TITLE.GetBaseName]への移住"
